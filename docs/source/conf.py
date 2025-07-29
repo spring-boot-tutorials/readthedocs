@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Spring Boot Tutorials'
+copyright = '2025, Marcus Chiu'
+author = 'Marcus Chiu'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '3.5.3'
 
 # -- General configuration
 
@@ -33,3 +33,5 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_static_path = ['public']
