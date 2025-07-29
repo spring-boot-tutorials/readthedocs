@@ -1,11 +1,9 @@
-Spring Sentry #WIP#
-===================
+Spring Testcontainers (MongoDB)
+===============================
 
 https://github.com/spring-boot-tutorials/spring-testcontainers-mongodb
 
 In this article we will configure Spring Testcontainers MongoDB.
-
-Based on: https://docs.sentry.io/platforms/java/guides/spring-boot/
 
 Create Initial Code Base
 ------------------------

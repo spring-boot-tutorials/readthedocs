@@ -102,3 +102,6 @@ Contents
     spring-sentry/spring-sentry
     spring-statemachine/spring-statemachine
     spring-testcontainers/spring-testcontainers-mongodb
+    spring-validation/spring-validation
+    spring-webflow/spring-webflow
+
