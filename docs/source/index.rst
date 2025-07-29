@@ -1,20 +1,12 @@
-Welcome to Marcus's Spring Guides!
-==================================
+Welcome to Marcus's Spring 3.5 Guides!
+======================================
 
 .. image:: public/1.jpg
-..    :width: 200px
+..     :align: center
+..     :width: 500px
 ..    :height: 100px
 ..    :scale: 50 %
 ..    :alt: alternate text
-..    :align: right
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`spring-boot-example` section for further information, including
-how to :ref:`spring-boot-example` the project.
 
 .. note::
 
