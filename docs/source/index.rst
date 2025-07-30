@@ -73,20 +73,56 @@ Contents
     :maxdepth: 1
     :caption: Spring Security
 
+    spring-security/spring-security/spring-security
     spring-security/oauth-oidc/spring-oauth
     spring-security/oauth-oidc/spring-oauth-keycloak
     spring-security/oauth-oidc/spring-oidc-google
 
 .. toctree::
     :maxdepth: 1
+    :caption: Spring Session
+
+    spring-session/spring-session-hazelcast
+    spring-session/spring-session-jdbc
+    spring-session/spring-session-mongodb
+    spring-session/spring-session-redis
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Spring Messaging & Events
+
+    spring-messaging-event/spring-amqp/spring-amqp
+    spring-messaging-event/spring-kafka/spring-kafka
+    spring-messaging-event/spring-pulsar/spring-pulsar
+    spring-messaging-event/spring-websocket/spring-websocket
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Spring Observability
+
+    spring-observability/spring-observability-datadog/spring-datadog
+    spring-observability/spring-observability-distributed-tracing/spring-distributed-tracing
+    spring-observability/spring-observability-dynatrace/spring-dynatrace
+    spring-observability/spring-observability-graphite/spring-graphite
+    spring-observability/spring-observability-influx/spring-influx
+    spring-observability/spring-observability-newrelic/spring-newrelic
+    spring-observability/spring-observability-otlp/spring-otlp
+    spring-observability/spring-observability-prometheus/spring-prometheus
+    spring-observability/spring-observability-wavefront/spring-wavefront
+    spring-observability/spring-observability-zipkin/spring-zipkin
+
+.. toctree::
+    :maxdepth: 1
     :caption: Spring Other
 
+    spring-batch/spring-batch
     spring-cache-abstraction/spring-cache-in-memory
     spring-cache-abstraction/spring-cache-redis
     spring-credhub/spring-credhub
     spring-graphql/spring-graphql
     spring-graphql/spring-graphql-dgs-netflix
     spring-hateoas/spring-hateoas
+    spring-ldap/spring-ldap
     spring-integration/spring-integration
     spring-modulith/spring-modulith
     spring-quartz-scheduler/spring-quartz-scheduler
